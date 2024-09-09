@@ -1237,3 +1237,4 @@ libfsm-0.14.7.so:_ZlsRSoR11exit_object
 libfsm-0.14.7.so:_ZlsRSoR8Variable
 libfsm-0.14.7.so:_ZlsRSoR9GotoLabel
 libfsm-0.14.7.so:_ZlsRSoRK8InputLoc
+libfsm-0.14.7.so:libfsm_present
